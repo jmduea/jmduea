@@ -2,11 +2,10 @@
 <h2> Hi my name is Jon Duea, welcome to my github profile!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Solving problems, finding new and innovative solutions, solving the unsolvable.
-- 🎓 &nbsp; Studying Software Development at The Tech Academy.
-- 🌱 &nbsp; Learning more about all things tech.
-- ✍️ &nbsp; Gaming and mod development to make the games I play even better.
+🤔 I am a problem solver who enjoys finding new and innovative solutions to challenging problems. </br>
+🎓 Currently studying Software Development at The Tech Academy to expand my knowledge and skills in the field. </br>
+🌱 Always eager to learn more about all things tech and staying up-to-date with the latest advancements. </br>
+✍️ In my free time, I enjoy gaming and mod development to make the games I play even more enjoyable.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,9 +33,9 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://jmduea.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://jmduea.github.io/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jmduea/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jon%20Duea-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jmduea@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jmduea@gmail.com-blue?style=flat-square&logo=gmail">
+<a href="mailto:jmduea@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jmduea@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ </p>
