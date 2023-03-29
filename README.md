@@ -3,9 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 🤔 I am a problem solver who enjoys finding new and innovative solutions to challenging problems. </br>
-🎓 Currently studying Software Development at The Tech Academy to expand my knowledge and skills in the field. </br>
-🌱 Always eager to learn more about all things tech and staying up-to-date with the latest advancements. </br>
-✍️ In my free time, I enjoy gaming and mod development to make the games I play even more enjoyable.
+🌱 Always eager to learn more and stay up-to-date with the latest advancements. </br>
+✍️ In my free time, I enjoy gaming and mod development for the games I play. </br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
