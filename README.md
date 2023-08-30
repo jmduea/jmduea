@@ -2,6 +2,7 @@
 <h2> Hi my name is Jon Duea, welcome to my github profile!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+🎓 Computer Science A.S -> Data Science B.S (in-progress)
 🤔 I am a problem solver who enjoys finding new and innovative solutions to challenging problems. </br>
 🌱 Always eager to learn more and stay up-to-date with the latest advancements. </br>
 ✍️ In my free time, I enjoy gaming and mod development for the games I play. </br>
