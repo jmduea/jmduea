@@ -19,6 +19,7 @@
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django)
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
+  ![C](https://img.shields.io/badge/C-333333?flat&logo=c&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net)
 
 - ⚙️ &nbsp;
