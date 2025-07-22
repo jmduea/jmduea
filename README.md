@@ -5,14 +5,6 @@
 🎓 Computer Science A.S -> Data Science B.S (in-progress) </br>
 🤔 I am a problem solver who enjoys finding new and innovative solutions to challenging problems. </br>
 🌱 Always eager to learn more and stay up-to-date with the latest advancements. </br>
-✍️ In my free time, I enjoy gaming and mod development for the games I play. </br>
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;
-  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
-  ![C](https://img.shields.io/badge/C-333333?flat&logo=c&logoColor=white)
 
 <br/>
 
