@@ -12,7 +12,7 @@ Data Scientist / ML Engineer focused on BCI, robotics, reinforcement learning, a
 - [emotiv-cortex-rs](https://github.com/jmduea/emotiv-cortex-rs/tree/main): Rust client + TUI for interactive exploration of the Emotiv Cortex API
 - [ruka_mg996r](https://github.com/jmduea/ruka_mg996r): An adaptation of the [RUKA project](https://ruka.gitbook.io/instructions).
 - [lux_agent_comp](https://github.com/jmduea/lux_agent_comp): Multi-agent RL system for [Lux AI Season 3](https://www.kaggle.com/competitions/lux-ai-season-3)
-- [Modeling-Medical-Cost-Differences-Across-the-US](https://github.com/jmduea/Modeling-Medical-Cost-Differences-Across-the-US): Statistical modeling project analyzing medical cost drivers
+- [NeuroHID](https://github.com/jmduea/NeuroHID): Prototype framework enabling use of biosignal acquisition devices as HID compliant devices.
 
 ## Currently exploring
 - BCI developer tooling
